@@ -1,0 +1,254 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "henod"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missedr"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missedd"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missedu"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missedl"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "missedr"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWNmiss-alt",
+			"indices": [],
+			"name": "missedd"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "missedu"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "missedl"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "hurt",
+			"indices": [],
+			"name": "owie"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "scared",
+			"indices": [],
+			"name": "spooked"
+		},
+		{
+			"offsets": [
+				9,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "dodge",
+			"indices": [],
+			"name": "dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Gooey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "gooey",
+	"flip_x": false,
+	"healthbar_colors": [
+		128,
+		230,
+		203
+	],
+	"camera_position": [
+		-10,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

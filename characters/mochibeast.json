@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				130
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				129
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "WelcometoyourfinalTest",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				131
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Cuzinevermissabeat",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				129
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "WecanscraptheS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				130
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "ImMrBeast",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amongus/MochiBeast",
+	"position": [
+		-70,
+		230
+	],
+	"healthicon": "mochibeast",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		239,
+		234
+	],
+	"camera_position": [
+		90,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
