@@ -15,15 +15,15 @@
 	"no_antialiasing": false,
 	"image": "characters/speaker_assets",
 	"position": [
-		600,
-		300
+		0,
+		0
 	],
 	"healthicon": "nmochi",
 	"flip_x": false,
 	"healthbar_colors": [
-        128,
-        240,
-        203
+		128,
+		240,
+		203
 	],
 	"camera_position": [
 		0,
