@@ -1,0 +1,26 @@
+{
+	"characters": [
+		{
+			"name": "mochigf",
+			"positionArray": [180,-10]
+		},
+		{
+			"name": "speakers",
+			"positionArray": [600,300]
+		}
+	],
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nmochi",
+	"healthbar_colors": [
+		128,
+    240,
+    203
+	],
+	"camera_position": [
+		0,
+		0
+	]
+}
